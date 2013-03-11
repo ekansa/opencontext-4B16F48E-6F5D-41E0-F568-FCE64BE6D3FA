@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="251F9D60-ED50-4DA1-18B0-4B7064F3CF45" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">
+  <arch:name>
+    <arch:string>UNE 230</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Pottery</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a05ad69e1</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>0E315B22-2B11-40B9-9D6E-C7970E2C1C6D</arch:variableID>
+          <arch:valueID>6EF0E181-2F0A-4737-2CF1-A4C517C81678</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FB204697-06BD-4C98-CF4C-1B248063C9C8">FB204697-06BD-4C98-CF4C-1B248063C9C8</oc:propid>
+          <oc:var_label type="nominal">Donor Institution/sample Source</oc:var_label>
+          <oc:show_val>National Museum of the Philippines</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1AF87E6D-0125-4BF3-CF16-4D48FC14B69B</arch:variableID>
+          <arch:valueID>C26F0A64-94DC-445E-C9C3-F10C36AA9A54</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/FD0E4869-157F-4C2C-812A-A7E33E77EF1E">FD0E4869-157F-4C2C-812A-A7E33E77EF1E</oc:propid>
+          <oc:var_label type="nominal">Sample Source Person</oc:var_label>
+          <oc:show_val>Eusebio Dizon</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>89A6E0F2-3C21-42E5-BD77-9799594E6E00</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/98C8D9DE-0E4D-4F94-D405-4A723A2B3D70">98C8D9DE-0E4D-4F94-D405-4A723A2B3D70</oc:propid>
+          <oc:var_label type="alphanumeric">Museum No.</oc:var_label>
+          <oc:show_val>15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>77B481BE-7F30-43EB-13F0-ED62ACA04CC7</arch:variableID>
+          <oc:propid href="http://opencontext.org/properties/CCA808C0-A37D-4730-C61A-07C37483C07F">CCA808C0-A37D-4730-C61A-07C37483C07F</oc:propid>
+          <oc:var_label type="nominal">Compositional Group</oc:var_label>
+          <oc:show_val>7</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="77B481BE-7F30-43EB-13F0-ED62ACA04CC7" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P45F.consists_of">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Consists of</oc:label>
+              <oc:targetLink localType="property" localID="CCA808C0-A37D-4730-C61A-07C37483C07F" localURI="http://opencontext.org/properties/CCA808C0-A37D-4730-C61A-07C37483C07F" href="http://collection.britishmuseum.org/id/thesauri/x10539">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>ceramic</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D6CE083C-209A-4FD4-F256-E53365EFEF8A</arch:variableID>
+          <arch:valueID>8DC6FFC4-4735-4EF2-AEE0-B1B1490B379C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/F897E100-C6D4-467D-544C-E6F4DEF781A4">F897E100-C6D4-467D-544C-E6F4DEF781A4</oc:propid>
+          <oc:var_label type="nominal">Sinopoli Et Al Group</oc:var_label>
+          <oc:show_val>Group 4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4B3860B0-F273-45A8-3DF9-DB07950F76C0</arch:variableID>
+          <arch:valueID>79D9ECCF-C7A2-4B81-974C-4102359A95CC</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B8268308-EED5-4BDB-D441-4340F7463E8E">B8268308-EED5-4BDB-D441-4340F7463E8E</oc:propid>
+          <oc:var_label type="nominal">Dataset Type</oc:var_label>
+          <oc:show_val>A Ship</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5617FAA4-F14E-4712-E612-B155246086EA</arch:variableID>
+          <arch:valueID>A992D328-1A47-49FB-915E-2A23D70F4F57</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/A4B98493-E6B5-40A9-5CA8-703119099A87">A4B98493-E6B5-40A9-5CA8-703119099A87</oc:propid>
+          <oc:var_label type="nominal">Year</oc:var_label>
+          <oc:show_val>Early to mid 15th Century</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CBAB15C-9B19-4E31-2520-825E0915A6B5</arch:variableID>
+          <arch:valueID>A58A4AC9-D62B-40BB-21BF-EB8A1E6DF8B7</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/485F0215-FDA0-4B57-60F1-B41C6E86DB89">485F0215-FDA0-4B57-60F1-B41C6E86DB89</oc:propid>
+          <oc:var_label type="alphanumeric">Photograph No. - Located In Photographs Folder.</oc:var_label>
+          <oc:show_val>UNE 230</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2C44A44C-712D-4848-A2CA-B5158F006D83</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">14</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/923B721C-C615-4100-7D09-02E3B2C298C1">923B721C-C615-4100-7D09-02E3B2C298C1</oc:propid>
+          <oc:var_label type="decimal">Sample Weight (g)</oc:var_label>
+          <oc:show_val>14</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EC0B7297-5A73-4085-7B75-6E0A215EEB2B</arch:variableID>
+          <arch:valueID>A4B0DAF6-1D6C-4249-780B-F1C2EE514997</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/2F8E65F5-B511-4A68-0EDE-EA54305673B5">2F8E65F5-B511-4A68-0EDE-EA54305673B5</oc:propid>
+          <oc:var_label type="nominal">Vessel Part Sampled</oc:var_label>
+          <oc:show_val>upper margin</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D598C9EE-39FE-4808-7DC7-B17F9856A6A0</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">340</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/959FFAEC-52D2-4064-179E-1F5CC2601FD3">959FFAEC-52D2-4064-179E-1F5CC2601FD3</oc:propid>
+          <oc:var_label type="decimal">Diameter (mm)</oc:var_label>
+          <oc:show_val>340</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>65A32E3A-9AE9-4882-DE46-549921067E15</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">140</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DC3A5EDC-C631-4A07-81BB-D23050353345">DC3A5EDC-C631-4A07-81BB-D23050353345</oc:propid>
+          <oc:var_label type="decimal">Height (mm)</oc:var_label>
+          <oc:show_val>140</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6A9A1B42-275F-4C9E-C991-EE823B9CBC99</arch:variableID>
+          <arch:valueID>82631642-9E83-4976-3E97-B4D6435D147C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/59D3CA40-3318-4FAC-4F9B-14FD5A0B418D">59D3CA40-3318-4FAC-4F9B-14FD5A0B418D</oc:propid>
+          <oc:var_label type="alphanumeric">Artefact Type</oc:var_label>
+          <oc:show_val>sherd body</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6A9A1B42-275F-4C9E-C991-EE823B9CBC99" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="59D3CA40-3318-4FAC-4F9B-14FD5A0B418D" localURI="http://opencontext.org/properties/59D3CA40-3318-4FAC-4F9B-14FD5A0B418D" href="http://collection.britishmuseum.org/id/thesauri/x9862">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>vessel</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">D675CA6B-CB85-4E24-48ED-CB06E3AB505A</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/D675CA6B-CB85-4E24-48ED-CB06E3AB505A">
+            <oc:name>UNE230.JPG</oc:name>
+            <oc:id>D675CA6B-CB85-4E24-48ED-CB06E3AB505A</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE230.JPG</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84" cite="contributor">
+            <oc:name>Peter Grave</oc:name>
+            <oc:id>F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Individual vessels samples originally came from either terrestrial or ship-wreck sources. This project provides only general contextual information. For more specific information about the archaeological context of the objects sampled, please refer to documentation maintained by relevant museums.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+    <arch:observation obsNumber="3">
+      <oc:obs_metadata>
+        <oc:source>z_1_bb0bbef63</oc:source>
+        <oc:name>ICP data</oc:name>
+        <oc:type>1</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>D90DB93B-7381-4064-E615-544300F1B3D5</arch:variableID>
+          <arch:decimal>7</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/5B202ECF-F23F-4222-4936-85A60CE5AA6A">5B202ECF-F23F-4222-4936-85A60CE5AA6A</oc:propid>
+          <oc:var_label type="decimal">Group (icp)</oc:var_label>
+          <oc:show_val>7</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>68F2BE33-6EC1-4835-27D4-17BCB00667E2</arch:variableID>
+          <oc:annotations about="68F2BE33-6EC1-4835-27D4-17BCB00667E2" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Barium" name="Barium" abrv="Ba">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">235.11</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/729C85EF-17CE-44C7-F1D2-BA0FBAA12F39">729C85EF-17CE-44C7-F1D2-BA0FBAA12F39</oc:propid>
+          <oc:var_label type="decimal">ICP - Ba</oc:var_label>
+          <oc:show_val>235.11</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>604F74FF-53A7-4E56-FAAC-7D9C45AC92D7</arch:variableID>
+          <oc:annotations about="604F74FF-53A7-4E56-FAAC-7D9C45AC92D7" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Calcium" name="Calcium" abrv="Ca">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">941.75</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/A30D153D-5912-4DC3-2118-F5AF4F6B8DF5">A30D153D-5912-4DC3-2118-F5AF4F6B8DF5</oc:propid>
+          <oc:var_label type="decimal">ICP - Ca</oc:var_label>
+          <oc:show_val>941.75</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>67A843E8-01F3-4184-89A8-D90C401E3BE3</arch:variableID>
+          <oc:annotations about="67A843E8-01F3-4184-89A8-D90C401E3BE3" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Cerium" name="Cerium" abrv="Ce">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">136.94</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/50988070-C315-485D-9E44-F6604F66D7C3">50988070-C315-485D-9E44-F6604F66D7C3</oc:propid>
+          <oc:var_label type="decimal">ICP - Ce</oc:var_label>
+          <oc:show_val>136.94</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B5593DD3-D92C-4B61-36AD-11807CF5ACA4</arch:variableID>
+          <oc:annotations about="B5593DD3-D92C-4B61-36AD-11807CF5ACA4" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Copper" name="Copper" abrv="Cu">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">26.43</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D59B33B9-E021-445C-4848-3B8BC2BA8482">D59B33B9-E021-445C-4848-3B8BC2BA8482</oc:propid>
+          <oc:var_label type="decimal">ICP - Cu</oc:var_label>
+          <oc:show_val>26.43</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2B2AB2D4-6D6F-48F8-FA3B-313325A3456E</arch:variableID>
+          <oc:annotations about="2B2AB2D4-6D6F-48F8-FA3B-313325A3456E" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Iron" name="Iron" abrv="Fe">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">59362.57</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E5AF379B-38E8-4C33-CF99-1D174AB0337A">E5AF379B-38E8-4C33-CF99-1D174AB0337A</oc:propid>
+          <oc:var_label type="decimal">ICP - Fe</oc:var_label>
+          <oc:show_val>59362.57</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D82AECBC-E7A1-484D-9C84-2AF9F1445D3C</arch:variableID>
+          <oc:annotations about="D82AECBC-E7A1-484D-9C84-2AF9F1445D3C" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Gallium" name="Gallium" abrv="Ga">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">45.71</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E6578169-223C-459F-05B4-7445742652CF">E6578169-223C-459F-05B4-7445742652CF</oc:propid>
+          <oc:var_label type="decimal">ICP - Ga</oc:var_label>
+          <oc:show_val>45.71</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>09729D76-EB14-49F3-D4F1-7E7FD923208C</arch:variableID>
+          <oc:annotations about="09729D76-EB14-49F3-D4F1-7E7FD923208C" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Hafnium" name="Hafnium" abrv="Hf">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">3.29</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/2D410699-0144-4C80-769F-7131AC27956F">2D410699-0144-4C80-769F-7131AC27956F</oc:propid>
+          <oc:var_label type="decimal">ICP - Hf</oc:var_label>
+          <oc:show_val>3.29</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CCCD16FD-DCDC-4CB1-6CE2-771422662D40</arch:variableID>
+          <oc:annotations about="CCCD16FD-DCDC-4CB1-6CE2-771422662D40" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Potassium" name="Potassium" abrv="K">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">10425.82</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/30A2A37A-197C-4764-88E1-BE503C381544">30A2A37A-197C-4764-88E1-BE503C381544</oc:propid>
+          <oc:var_label type="decimal">ICP - K</oc:var_label>
+          <oc:show_val>10425.82</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>398B5E42-F344-413E-26B3-E81F59A4B77E</arch:variableID>
+          <oc:annotations about="398B5E42-F344-413E-26B3-E81F59A4B77E" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Lanthanum" name="Lanthanum" abrv="La">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">64.09</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7338EC1D-6053-49CB-1FC8-2FEB61D1DF9E">7338EC1D-6053-49CB-1FC8-2FEB61D1DF9E</oc:propid>
+          <oc:var_label type="decimal">ICP - La</oc:var_label>
+          <oc:show_val>64.09</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>58B0338A-14AF-409A-3274-1C6E3486C42B</arch:variableID>
+          <oc:annotations about="58B0338A-14AF-409A-3274-1C6E3486C42B" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Lithium" name="Lithium" abrv="Li">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">19.15</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/CA2584FA-6BF6-411B-DB54-476F23AC8233">CA2584FA-6BF6-411B-DB54-476F23AC8233</oc:propid>
+          <oc:var_label type="decimal">ICP - Li</oc:var_label>
+          <oc:show_val>19.15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1BBDD303-9906-436D-C068-57E8B1077060</arch:variableID>
+          <oc:annotations about="1BBDD303-9906-436D-C068-57E8B1077060" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Magnesium" name="Magnesium" abrv="Mg">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">12302.68</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/19BD0AA1-A371-47EA-F197-A6C896C235EB">19BD0AA1-A371-47EA-F197-A6C896C235EB</oc:propid>
+          <oc:var_label type="decimal">ICP - Mg</oc:var_label>
+          <oc:show_val>12302.68</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2952EB98-532E-4C1F-5CE0-8463EF2FDC9B</arch:variableID>
+          <oc:annotations about="2952EB98-532E-4C1F-5CE0-8463EF2FDC9B" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Sodium" name="Sodium" abrv="Na">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">1078.93</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6D486BA3-5B88-471E-21FA-7FB7FD66092F">6D486BA3-5B88-471E-21FA-7FB7FD66092F</oc:propid>
+          <oc:var_label type="decimal">ICP - Na</oc:var_label>
+          <oc:show_val>1078.93</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>7C6245B6-D6EC-41F7-91FB-B97263BA5435</arch:variableID>
+          <oc:annotations about="7C6245B6-D6EC-41F7-91FB-B97263BA5435" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Nickel" name="Nickel" abrv="Ni">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">29.03</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C3A6DD74-F898-407A-6543-573A136D82CB">C3A6DD74-F898-407A-6543-573A136D82CB</oc:propid>
+          <oc:var_label type="decimal">ICP - Ni</oc:var_label>
+          <oc:show_val>29.03</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B390ED10-37E0-4D67-5FA9-E2A345F09BD7</arch:variableID>
+          <oc:annotations about="B390ED10-37E0-4D67-5FA9-E2A345F09BD7" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Scandium" name="Scandium" abrv="Sc">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">18.88</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/FACD5A3C-B335-4D6E-9FCF-8F51EB48CE42">FACD5A3C-B335-4D6E-9FCF-8F51EB48CE42</oc:propid>
+          <oc:var_label type="decimal">ICP - Sc</oc:var_label>
+          <oc:show_val>18.88</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>4FACFAE5-DCED-4248-CC3D-20A9A4641403</arch:variableID>
+          <oc:annotations about="4FACFAE5-DCED-4248-CC3D-20A9A4641403" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Strontium" name="Strontium" abrv="Sr">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">42.82</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/FE3DE6FC-AA0A-4073-0606-64E4DC2861C3">FE3DE6FC-AA0A-4073-0606-64E4DC2861C3</oc:propid>
+          <oc:var_label type="decimal">ICP - Sr</oc:var_label>
+          <oc:show_val>42.82</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>04909421-C28E-46AF-98FA-10F888B64A4D</arch:variableID>
+          <oc:annotations about="04909421-C28E-46AF-98FA-10F888B64A4D" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Titanium" name="Titanium" abrv="Ti">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">9534.67</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/62F725D1-C8FA-4B54-A1B3-9EFF0A6FBC8D">62F725D1-C8FA-4B54-A1B3-9EFF0A6FBC8D</oc:propid>
+          <oc:var_label type="decimal">ICP - Ti</oc:var_label>
+          <oc:show_val>9534.67</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6AEF54F3-2418-48A4-2C47-E2EA7A91A9FA</arch:variableID>
+          <oc:annotations about="6AEF54F3-2418-48A4-2C47-E2EA7A91A9FA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Vanadium" name="Vanadium" abrv="V">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">165.51</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/94A7D805-866E-4C4B-70ED-BB9D6F82901A">94A7D805-866E-4C4B-70ED-BB9D6F82901A</oc:propid>
+          <oc:var_label type="decimal">ICP - V</oc:var_label>
+          <oc:show_val>165.51</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C4ACA86D-8E89-4C98-6AAB-BC54325022EE</arch:variableID>
+          <oc:annotations about="C4ACA86D-8E89-4C98-6AAB-BC54325022EE" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Ytterbium" name="Ytterbium" abrv="Yb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">4.02</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/08F4BB55-920A-4E41-7EB5-B998861A89A3">08F4BB55-920A-4E41-7EB5-B998861A89A3</oc:propid>
+          <oc:var_label type="decimal">ICP - Yb</oc:var_label>
+          <oc:show_val>4.02</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D2C633DD-A48E-446C-F6E7-989981FC3245</arch:variableID>
+          <oc:annotations about="D2C633DD-A48E-446C-F6E7-989981FC3245" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="method"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Inductively_coupled_plasma_atomic_emission_spectroscopy" name="Inductively Coupled Plasma Optical Emission Spectrometry" abrv="ICP-OES">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Zinc" name="Zinc" abrv="Zn">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://www.freebase.com/view/en/microgram_per_milliliter" name="concentration (microgram per milliliter)" abrv="µg/mL">66.69</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DB4D3F27-6FA1-42F0-BBB5-CF816A40B256">DB4D3F27-6FA1-42F0-BBB5-CF816A40B256</oc:propid>
+          <oc:var_label type="decimal">ICP - Zn</oc:var_label>
+          <oc:show_val>66.69</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+        <oc:name>Philippines</oc:name>
+        <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/1A539305-F033-4DE4-2AC6-5B9FB8231A46">
+        <oc:name>Pandanan</oc:name>
+        <oc:id>1A539305-F033-4DE4-2AC6-5B9FB8231A46</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE 230 (Pottery)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-08</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/251F9D60-ED50-4DA1-18B0-4B7064F3CF45</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-08T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE+230+%28Pottery%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.contributor=Peter+Grave&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F251F9D60-ED50-4DA1-18B0-4B7064F3CF45</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>8.135367</oc:geo_lat>
+      <oc:geo_long>117.246094</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/1A539305-F033-4DE4-2AC6-5B9FB8231A46">
+        <oc:source_name>Pandanan</oc:source_name>
+        <oc:source_id>1A539305-F033-4DE4-2AC6-5B9FB8231A46</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-08T19:15:13-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/08 19:15:13</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1400 CE - 1450 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1400</oc:time_start>
+          <oc:time_finish>1450</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/251F9D60-ED50-4DA1-18B0-4B7064F3CF45">
+            <oc:source_name>UNE 230</oc:source_name>
+            <oc:source_id>251F9D60-ED50-4DA1-18B0-4B7064F3CF45</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

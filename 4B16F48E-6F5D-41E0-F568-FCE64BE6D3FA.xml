@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:project xmlns:arch="http://ochre.lib.uchicago.edu/schema/Project/Project.xsd" xmlns:oc="http://opencontext.org/schema/project_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">
+  <arch:name>
+    <arch:string>Asian Stoneware Jars</arch:string>
+  </arch:name>
+  <oc:manage_info>
+    <oc:queryVal>Asian+Stoneware+Jars</oc:queryVal>
+    <oc:rootPath>/</oc:rootPath>
+    <oc:spaceCount>0</oc:spaceCount>
+    <oc:mediaCount>0</oc:mediaCount>
+    <oc:diaryCount>0</oc:diaryCount>
+    <oc:projGeoPoint> </oc:projGeoPoint>
+  </oc:manage_info>
+  <arch:links>
+    <arch:docID type="person" info="Project Participant">F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">D97BF81D-8ED2-419B-5C9B-DEB6B1C92E87</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">879E0ECA-7FCC-4963-86C3-13CAC42EFCB6</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">F167E601-C1DE-498F-CD5D-7204302A4EC6</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">C488564F-14FA-4869-7BF7-CF70BABB3AEF</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">F3196D90-A53F-4CD6-778D-68146E931C49</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">EC7030BE-96AF-4B77-8278-6019A2E78536</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">185E0FAB-2553-41F1-F967-E3AD7FFB5F96</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">0A6D65B0-DDA5-4C0D-D81F-7C1C09629B33</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">75BC226B-2DB0-408D-A0FA-9B7C2DE00C1B</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">9CBA141A-D64A-4F1C-F671-185AC43217C1</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">C5206DA0-29BE-495A-3EA1-A3B406151C03</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">2883F5AD-9FA2-49F2-E640-68AC5D08EB8B</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">9B371523-67F5-4840-9126-B0537B6BD01C</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">EF4984D9-267D-417E-817A-9D9728A8811D</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">E8B0E682-55B1-42B9-1AB1-321D7619DFFC</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">F01E3C65-3F57-483D-D1B5-E3881C5732A2</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">8CDB9942-325E-45F9-8C8D-4832B99D0B95</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">522F2894-4EA6-4E1A-0554-9B8C80FEE79D</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">1A539305-F033-4DE4-2AC6-5B9FB8231A46</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">BCB3B521-0745-461A-937E-F76F32D9FFA6</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">3DBB1FC5-9592-454D-52BD-501B6ACCB32E</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">03110DFB-31E8-4202-51CE-DFC9037BC9B8</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">C10A177D-2CDB-4868-2881-1B6F43AF5DD3</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">B06A10E6-032D-4F32-7DEC-19DE1A2D6E83</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">2D733C71-AABC-4ED8-4ADB-9C1E18217D86</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">2B81B7B7-B1E2-4C7D-15CF-904B765F3C11</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">A01673D6-FC77-4CFE-CDA2-89619C268958</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">B65089C9-668F-41A8-E08A-A37A97744A6F</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">3784CA85-A35A-4F10-AFF5-E7E691A748D2</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">12DBE4E6-FC36-46D0-C736-97278AC64429</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">A99E3F40-6357-404A-6FBC-81A7247549CE</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">45779529-2EC9-4BA2-2289-938113B20A0F</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">880D2522-9955-4157-FF88-DC1B42399BBE</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">D49ABA8D-4B0A-4A99-D9A1-81602A4216F3</arch:docID>
+    <arch:docID type="spatialUnit" info="project root">DF4B2143-DE97-4624-1C3C-685CB3C166B9</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/D97BF81D-8ED2-419B-5C9B-DEB6B1C92E87">
+        <oc:name>Batavia</oc:name>
+        <oc:id>D97BF81D-8ED2-419B-5C9B-DEB6B1C92E87</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/7351C966-B876-4B29-F525-5B33CBE895B7">
+              <oc:name>Australia</oc:name>
+              <oc:id>7351C966-B876-4B29-F525-5B33CBE895B7</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/879E0ECA-7FCC-4963-86C3-13CAC42EFCB6">
+        <oc:name>Castle of Good Hope</oc:name>
+        <oc:id>879E0ECA-7FCC-4963-86C3-13CAC42EFCB6</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/F167E601-C1DE-498F-CD5D-7204302A4EC6">
+        <oc:name>Central Gulf of Thailand</oc:name>
+        <oc:id>F167E601-C1DE-498F-CD5D-7204302A4EC6</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/0194DA55-F6BE-413D-C288-EF201FC4F2D0">
+              <oc:name>Thailand</oc:name>
+              <oc:id>0194DA55-F6BE-413D-C288-EF201FC4F2D0</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/C488564F-14FA-4869-7BF7-CF70BABB3AEF">
+        <oc:name>Conception</oc:name>
+        <oc:id>C488564F-14FA-4869-7BF7-CF70BABB3AEF</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/32B3883A-B007-405D-C4E0-ED129C587DFA">
+              <oc:name>Northern Mariana Islands</oc:name>
+              <oc:id>32B3883A-B007-405D-C4E0-ED129C587DFA</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/F3196D90-A53F-4CD6-778D-68146E931C49">
+        <oc:name>Desaru</oc:name>
+        <oc:id>F3196D90-A53F-4CD6-778D-68146E931C49</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B">
+        <oc:name>Drakes Bay Site</oc:name>
+        <oc:id>697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+              <oc:name>United States</oc:name>
+              <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/D19E908A-9614-445F-DF1A-793EBCD45BEE">
+              <oc:name>California</oc:name>
+              <oc:id>D19E908A-9614-445F-DF1A-793EBCD45BEE</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/EC7030BE-96AF-4B77-8278-6019A2E78536">
+        <oc:name>Feng-Kuei-Wei</oc:name>
+        <oc:id>EC7030BE-96AF-4B77-8278-6019A2E78536</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/185E0FAB-2553-41F1-F967-E3AD7FFB5F96">
+        <oc:name>Geunieerde Provinvien and Banda</oc:name>
+        <oc:id>185E0FAB-2553-41F1-F967-E3AD7FFB5F96</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/0519B7C7-1973-4D55-17FE-6D97176B1001">
+              <oc:name>Indian Ocean</oc:name>
+              <oc:id>0519B7C7-1973-4D55-17FE-6D97176B1001</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/0A6D65B0-DDA5-4C0D-D81F-7C1C09629B33">
+        <oc:name>Hollandia</oc:name>
+        <oc:id>0A6D65B0-DDA5-4C0D-D81F-7C1C09629B33</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/4A7C4A4A-FC66-411A-CDF4-870D153375F3">
+              <oc:name>United Kingdom</oc:name>
+              <oc:id>4A7C4A4A-FC66-411A-CDF4-870D153375F3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/75BC226B-2DB0-408D-A0FA-9B7C2DE00C1B">
+        <oc:name>Intan</oc:name>
+        <oc:id>75BC226B-2DB0-408D-A0FA-9B7C2DE00C1B</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/CD25B435-F70E-4F22-B344-85116E750814">
+              <oc:name>Indonesia</oc:name>
+              <oc:id>CD25B435-F70E-4F22-B344-85116E750814</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/9CBA141A-D64A-4F1C-F671-185AC43217C1">
+        <oc:name>Java Sea</oc:name>
+        <oc:id>9CBA141A-D64A-4F1C-F671-185AC43217C1</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/CD25B435-F70E-4F22-B344-85116E750814">
+              <oc:name>Indonesia</oc:name>
+              <oc:id>CD25B435-F70E-4F22-B344-85116E750814</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/C5206DA0-29BE-495A-3EA1-A3B406151C03">
+        <oc:name>Lei-Tuo</oc:name>
+        <oc:id>C5206DA0-29BE-495A-3EA1-A3B406151C03</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/2883F5AD-9FA2-49F2-E640-68AC5D08EB8B">
+        <oc:name>Lina Shoal (Reef) junk</oc:name>
+        <oc:id>2883F5AD-9FA2-49F2-E640-68AC5D08EB8B</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+              <oc:name>Philippines</oc:name>
+              <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/9B371523-67F5-4840-9126-B0537B6BD01C">
+        <oc:name>Longquan</oc:name>
+        <oc:id>9B371523-67F5-4840-9126-B0537B6BD01C</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/EF4984D9-267D-417E-817A-9D9728A8811D">
+        <oc:name>Mae Hong Son</oc:name>
+        <oc:id>EF4984D9-267D-417E-817A-9D9728A8811D</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/0194DA55-F6BE-413D-C288-EF201FC4F2D0">
+              <oc:name>Thailand</oc:name>
+              <oc:id>0194DA55-F6BE-413D-C288-EF201FC4F2D0</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/E8B0E682-55B1-42B9-1AB1-321D7619DFFC">
+        <oc:name>Mauritius (wreck site)</oc:name>
+        <oc:id>E8B0E682-55B1-42B9-1AB1-321D7619DFFC</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/20AF0BD0-B152-4A48-E19D-3A951EEF4A58">
+              <oc:name>Mauritius</oc:name>
+              <oc:id>20AF0BD0-B152-4A48-E19D-3A951EEF4A58</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/F01E3C65-3F57-483D-D1B5-E3881C5732A2">
+        <oc:name>Nanyang</oc:name>
+        <oc:id>F01E3C65-3F57-483D-D1B5-E3881C5732A2</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/8CDB9942-325E-45F9-8C8D-4832B99D0B95">
+        <oc:name>Not recorded</oc:name>
+        <oc:id>8CDB9942-325E-45F9-8C8D-4832B99D0B95</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/522F2894-4EA6-4E1A-0554-9B8C80FEE79D">
+        <oc:name>Oosterland</oc:name>
+        <oc:id>522F2894-4EA6-4E1A-0554-9B8C80FEE79D</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/1A539305-F033-4DE4-2AC6-5B9FB8231A46">
+        <oc:name>Pandanan</oc:name>
+        <oc:id>1A539305-F033-4DE4-2AC6-5B9FB8231A46</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+              <oc:name>Philippines</oc:name>
+              <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/BCB3B521-0745-461A-937E-F76F32D9FFA6">
+        <oc:name>Paradise Newlands</oc:name>
+        <oc:id>BCB3B521-0745-461A-937E-F76F32D9FFA6</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/3DBB1FC5-9592-454D-52BD-501B6ACCB32E">
+        <oc:name>Pei-Tao-Ciao</oc:name>
+        <oc:id>3DBB1FC5-9592-454D-52BD-501B6ACCB32E</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/03110DFB-31E8-4202-51CE-DFC9037BC9B8">
+        <oc:name>Philippines (various sample sites)</oc:name>
+        <oc:id>03110DFB-31E8-4202-51CE-DFC9037BC9B8</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+              <oc:name>Philippines</oc:name>
+              <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/C10A177D-2CDB-4868-2881-1B6F43AF5DD3">
+        <oc:name>Primorye</oc:name>
+        <oc:id>C10A177D-2CDB-4868-2881-1B6F43AF5DD3</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/56F99175-F90F-4978-362A-5B6FE27E8B6B">
+              <oc:name>Russia</oc:name>
+              <oc:id>56F99175-F90F-4978-362A-5B6FE27E8B6B</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/B06A10E6-032D-4F32-7DEC-19DE1A2D6E83">
+        <oc:name>Royal Nanhai</oc:name>
+        <oc:id>B06A10E6-032D-4F32-7DEC-19DE1A2D6E83</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/2D733C71-AABC-4ED8-4ADB-9C1E18217D86">
+        <oc:name>San Diego</oc:name>
+        <oc:id>2D733C71-AABC-4ED8-4ADB-9C1E18217D86</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+              <oc:name>Philippines</oc:name>
+              <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/2B81B7B7-B1E2-4C7D-15CF-904B765F3C11">
+        <oc:name>Santa Cruz junk</oc:name>
+        <oc:id>2B81B7B7-B1E2-4C7D-15CF-904B765F3C11</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A659B68E-EC36-4477-0C79-D48B370118FC">
+              <oc:name>Philippines</oc:name>
+              <oc:id>A659B68E-EC36-4477-0C79-D48B370118FC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64">
+        <oc:name>Sao Goncalo</oc:name>
+        <oc:id>30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/A01673D6-FC77-4CFE-CDA2-89619C268958">
+        <oc:name>Si-Satchanalai</oc:name>
+        <oc:id>A01673D6-FC77-4CFE-CDA2-89619C268958</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/0194DA55-F6BE-413D-C288-EF201FC4F2D0">
+              <oc:name>Thailand</oc:name>
+              <oc:id>0194DA55-F6BE-413D-C288-EF201FC4F2D0</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/B65089C9-668F-41A8-E08A-A37A97744A6F">
+        <oc:name>Singtai</oc:name>
+        <oc:id>B65089C9-668F-41A8-E08A-A37A97744A6F</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/3784CA85-A35A-4F10-AFF5-E7E691A748D2">
+        <oc:name>Sui-Ku-To</oc:name>
+        <oc:id>3784CA85-A35A-4F10-AFF5-E7E691A748D2</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/12DBE4E6-FC36-46D0-C736-97278AC64429">
+        <oc:name>Ta-Pen-Keng</oc:name>
+        <oc:id>12DBE4E6-FC36-46D0-C736-97278AC64429</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/A99E3F40-6357-404A-6FBC-81A7247549CE">
+        <oc:name>Turiang</oc:name>
+        <oc:id>A99E3F40-6357-404A-6FBC-81A7247549CE</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/251C032B-684D-445E-156B-5710AA407B11">
+              <oc:name>Malaysia</oc:name>
+              <oc:id>251C032B-684D-445E-156B-5710AA407B11</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/45779529-2EC9-4BA2-2289-938113B20A0F">
+        <oc:name>Vergulde Draak (Draeck)</oc:name>
+        <oc:id>45779529-2EC9-4BA2-2289-938113B20A0F</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/7351C966-B876-4B29-F525-5B33CBE895B7">
+              <oc:name>Australia</oc:name>
+              <oc:id>7351C966-B876-4B29-F525-5B33CBE895B7</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/880D2522-9955-4157-FF88-DC1B42399BBE">
+        <oc:name>Witte Leeuw</oc:name>
+        <oc:id>880D2522-9955-4157-FF88-DC1B42399BBE</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/A11CD813-68C7-4F02-4DDA-4C388C422231">
+              <oc:name>South Atlantic Ocean</oc:name>
+              <oc:id>A11CD813-68C7-4F02-4DDA-4C388C422231</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/D49ABA8D-4B0A-4A99-D9A1-81602A4216F3">
+        <oc:name>Zeewijk (Zeewyk)</oc:name>
+        <oc:id>D49ABA8D-4B0A-4A99-D9A1-81602A4216F3</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/7351C966-B876-4B29-F525-5B33CBE895B7">
+              <oc:name>Australia</oc:name>
+              <oc:id>7351C966-B876-4B29-F525-5B33CBE895B7</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+      <oc:link href="http://opencontext.org/subjects/DF4B2143-DE97-4624-1C3C-685CB3C166B9">
+        <oc:name>Gi-Pei-G</oc:name>
+        <oc:id>DF4B2143-DE97-4624-1C3C-685CB3C166B9</oc:id>
+        <oc:relation>project root</oc:relation>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/8C2F0C28-2D8F-4DAF-DD92-D34561E753C3">
+              <oc:name>Taiwan</oc:name>
+              <oc:id>8C2F0C28-2D8F-4DAF-DD92-D34561E753C3</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+    <oc:person_links>
+      <oc:link href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">
+        <oc:name>Peter Grave</oc:name>
+        <oc:id>F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</oc:id>
+        <oc:relation>Project Participant</oc:relation>
+      </oc:link>
+    </oc:person_links>
+  </arch:links>
+  <arch:notes>
+    <arch:note type="short_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">Element composition of Asian Stoneware Jars from the 9th - 19th centuries CE</div>
+      </arch:string>
+    </arch:note>
+    <arch:note type="long_des">
+      <arch:string type="xhtml">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <div>
+        
+        <h4>Introduction</h4>
+        <p>Asian production and trade in plain and decorated porcelain tablewares become increasingly prominent in the Asian and later international maritime economy from as early as the 9th century CE. One of the less well understood aspects of this trade was the production of large stoneware jars. This project seeks to elementally characterize a wide and diverse range of these jars using inductively coupled plasma optical emission spectrometry (ICP-OES) and neutron activation analysis (NAA), and proton-induced X-ray and γ-ray emission spectrometry (PIXE-PIGE) to better understand likely provenance as well as production dynamics over this period.</p>
+        
+        <p>Over twenty Asian and European wreck assemblages were sampled with the majority ranging in date from the fourteenth to the seventeenth century. The sample also includes a substantial sample from a National Museum of the Philippines and the University of Michigan collections of stoneware jars from Philippine burials as well as other terrestrial collections in the Southeast Asian region. The establishment of clear compositional groups provides a basis for assigning provenance and the postulation of seventeen discrete production zones ranging from southern China to Burma, but for which precise production locations remain largely unknown or unverified. In combination with typological information and chronological organization, these groups provide a valuable proxy for assessing changes in regional production strategies through the transition to the modern era.</p>
+
+        <p>ICP-OES, cross validated with NAA and PIXE-PIGE was used to generate a robust elemental dataset for this assemblage. This comprehensive database is designed to enable comparison and incorporation with ongoing analyses of archaeological stoneware samples from new archaeological excavations. The scale of this work is currently unsurpassed but nonetheless it must be considered as a preliminary attempt to develop a new perspective on the social, economic, and political dynamics of this time and region.</p>
+
+        <h5>Notes about Context and Geo-locations</h5>
+        <p>Individual vessels samples originally came from either terrestrial or ship-wreck sources. This project provides only general contextual information. For more specific information about the archaeological context of the objects sampled, please refer to documentation maintained by relevant museums.</p>
+        <p>Because of site security risks and other factors, all location information presented in this project is approximate. Indicated locations may be over 100 km. from their true positions.  Analytic uses of these location data should account for these inaccuracies. </p>
+
+        <h4>Related References</h4>
+        <div resource="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">    
+            <div id="pub-2009-1" rel="dcterms:isReferencedBy" class="biblio-item">
+                <a style="display:none;" href="#pub-2009-1"> </a>
+                <div typeof="dcterms:BibliographicResource bibo:BookSection" resource="#pub-2009-1">
+                    <div property="dcterms:bibliographicCitation">
+                        <p class="authors">Grave, Peter, and Maccheroni, Michael</p>
+                        <div>
+                            <div class="pub-date">2009</div>
+                            <div class="ref-title-pub">Characterizing Asian Stoneware Jar Production at the Transition to the Early Modern Period, 1550-1650.
+                            <span class="collection-title">Scientific research on historic Asian ceramics: proceedings of the Fourth Forbes Symposium at the Freer Gallery of Art</span>.
+                            edited by Blythe Ellen McCarthy, pp. 186-204. London, Archetype Publications in association with the Freer Gallery of Art, Smithsonian Institution.</div>
+                            <div class="ref-end"> </div>
+                        </div>
+                    </div>
+                    <div class="ref-links">
+                        [<a rel="dcterms:isPartOf" href="http://www.worldcat.org/oclc/457193665">WorldCat</a>]
+                        [<a rel="dcterms:hasVersion" href="http://www.une.edu.au/humanities/archpal/publications/CharacterisingAsianJars.PDF">Open Access</a>]
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+    </div>
+        </div>
+      </arch:string>
+    </arch:note>
+  </arch:notes>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: (Overview)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-07</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA</dc:identifier>
+    <dc:identifier type="doi" href="http://dx.doi.org/10.6078/M7057CVH">10.6078/M7057CVH</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-07T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+%28Overview%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fprojects%2F4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA&amp;rft.identifier=DOI%3A10.6078%2FM7057CVH</oc:coins>
+  </oc:metadata>
+</arch:project>

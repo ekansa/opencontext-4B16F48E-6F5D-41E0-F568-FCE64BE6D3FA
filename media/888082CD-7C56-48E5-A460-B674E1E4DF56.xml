@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="888082CD-7C56-48E5-A460-B674E1E4DF56" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA" type="image">
+  <arch:name>
+    <arch:string>UNE750.JPG</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="link">D68F3EFA-F20B-41CF-3701-20C2F33B452A</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/D68F3EFA-F20B-41CF-3701-20C2F33B452A">
+        <oc:name>UNE 750</oc:name>
+        <oc:id>D68F3EFA-F20B-41CF-3701-20C2F33B452A</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+              <oc:name>South Africa</oc:name>
+              <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64">
+              <oc:name>Sao Goncalo</oc:name>
+              <oc:id>30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Site</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>2481680</oc:ImageSize>
+        <oc:FileSize ReadSize="799.46 KB">818647</oc:FileSize>
+        <oc:FileName/>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/stoneware-media/full/photographs/UNE750.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/stoneware-media/preview/photographs/UNE750.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE750.JPG</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE750.JPG</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-07</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/media/888082CD-7C56-48E5-A460-B674E1E4DF56</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-07T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE750.JPG&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F888082CD-7C56-48E5-A460-B674E1E4DF56</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>-34.831841</oc:geo_lat>
+      <oc:geo_long>22.126465</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64">
+        <oc:source_name>Sao Goncalo</oc:source_name>
+        <oc:source_id>30A0EC97-2B9F-4A6D-2D7B-02C17E11BA64</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-08T02:33:42-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/08 02:33:42</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1630 CE)</oc:name>
+        <oc:chrono isDuration="false">
+          <oc:time_start>1630</oc:time_start>
+          <oc:time_finish>1630</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/888082CD-7C56-48E5-A460-B674E1E4DF56">
+            <oc:source_name>UNE 750</oc:source_name>
+            <oc:source_id>888082CD-7C56-48E5-A460-B674E1E4DF56</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>

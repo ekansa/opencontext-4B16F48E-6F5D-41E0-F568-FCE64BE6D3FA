@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="857ADDD7-05D4-486D-C11E-E8FD64FA82B8" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA" type="image">
+  <arch:name>
+    <arch:string>UNE689.JPG</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="link">2F01F68F-79EA-448C-DBF6-3E81C53B53DC</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/2F01F68F-79EA-448C-DBF6-3E81C53B53DC">
+        <oc:name>UNE 689</oc:name>
+        <oc:id>2F01F68F-79EA-448C-DBF6-3E81C53B53DC</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/20AF0BD0-B152-4A48-E19D-3A951EEF4A58">
+              <oc:name>Mauritius</oc:name>
+              <oc:id>20AF0BD0-B152-4A48-E19D-3A951EEF4A58</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/E8B0E682-55B1-42B9-1AB1-321D7619DFFC">
+              <oc:name>Mauritius (wreck site)</oc:name>
+              <oc:id>E8B0E682-55B1-42B9-1AB1-321D7619DFFC</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Site</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>2481680</oc:ImageSize>
+        <oc:FileSize ReadSize="1.1 MB">1149827</oc:FileSize>
+        <oc:FileName/>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/stoneware-media/full/photographs/UNE689.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/stoneware-media/preview/photographs/UNE689.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE689.JPG</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE689.JPG</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-07</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/media/857ADDD7-05D4-486D-C11E-E8FD64FA82B8</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-07T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE689.JPG&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F857ADDD7-05D4-486D-C11E-E8FD64FA82B8</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>-19.932041</oc:geo_lat>
+      <oc:geo_long>57.86499</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/E8B0E682-55B1-42B9-1AB1-321D7619DFFC">
+        <oc:source_name>Mauritius (wreck site)</oc:source_name>
+        <oc:source_id>E8B0E682-55B1-42B9-1AB1-321D7619DFFC</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-08T02:15:56-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/08 02:15:56</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1609 CE)</oc:name>
+        <oc:chrono isDuration="false">
+          <oc:time_start>1609</oc:time_start>
+          <oc:time_finish>1609</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/857ADDD7-05D4-486D-C11E-E8FD64FA82B8">
+            <oc:source_name>UNE 689</oc:source_name>
+            <oc:source_id>857ADDD7-05D4-486D-C11E-E8FD64FA82B8</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="185E0FAB-2553-41F1-F967-E3AD7FFB5F96" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">
+  <arch:name>
+    <arch:string>Geunieerde Provinvien and Banda</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Site</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a05ad69e1</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>F2729CA6-747D-4046-675C-07F043157796</arch:variableID>
+          <arch:decimal href="http://www.w3.org/2003/01/geo/wgs84_pos#lat" name="latitude (WGS84)" abrv="lat"/>
+          <oc:propid href="http://opencontext.org/properties/424509E4-DC42-4ABD-2183-B9BA9A9255C0">424509E4-DC42-4ABD-2183-B9BA9A9255C0</oc:propid>
+          <oc:var_label type="decimal">Approximate Latitude</oc:var_label>
+          <oc:show_val>-10.37166</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DEA3EA4D-12B8-4CA1-C073-EAD0E62D1D78</arch:variableID>
+          <arch:decimal href="http://www.w3.org/2003/01/geo/wgs84_pos#long" name="longitude (WGS84)" abrv="lon">56.670227</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/216F6AB8-8A7D-434A-BF52-61D01DDA88CC">216F6AB8-8A7D-434A-BF52-61D01DDA88CC</oc:propid>
+          <oc:var_label type="decimal">Approximate Longitude</oc:var_label>
+          <oc:show_val>56.670227</oc:show_val>
+        </arch:property>
+      </arch:properties>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Because of site security risks and other factors, all location information presented in this project is approximate. Indicated locations may be over 100 km. from their true positions.  Analytic uses of these location data should account for these inaccuracies. </div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/0519B7C7-1973-4D55-17FE-6D97176B1001">
+        <oc:name>Indian Ocean</oc:name>
+        <oc:id>0519B7C7-1973-4D55-17FE-6D97176B1001</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:children>
+    <oc:tree id="default">
+      <oc:child href="http://opencontext.org/subjects/99FCE610-F47F-4030-D3CC-C87B341475D4">
+        <oc:name>UNE 980</oc:name>
+        <oc:id>99FCE610-F47F-4030-D3CC-C87B341475D4</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EA543638-E54D-4E59-4DBD-BB4A4F19E092">
+        <oc:name>UNE 981</oc:name>
+        <oc:id>EA543638-E54D-4E59-4DBD-BB4A4F19E092</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/492DB13E-9DF9-42F7-CA24-BA843F53DF41">
+        <oc:name>UNE 982</oc:name>
+        <oc:id>492DB13E-9DF9-42F7-CA24-BA843F53DF41</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/491A45E3-333D-4B57-E818-2CB1BA6AACE8">
+        <oc:name>UNE 983</oc:name>
+        <oc:id>491A45E3-333D-4B57-E818-2CB1BA6AACE8</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4EEDAA67-7ECB-4A2B-89B2-A2BBD938066B">
+        <oc:name>UNE 984</oc:name>
+        <oc:id>4EEDAA67-7ECB-4A2B-89B2-A2BBD938066B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/70B4FA08-33EE-4894-D2DE-CA0639B1FC66">
+        <oc:name>UNE 985</oc:name>
+        <oc:id>70B4FA08-33EE-4894-D2DE-CA0639B1FC66</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6AC00EED-E9E2-42B6-8DB0-781ECBE26D2E">
+        <oc:name>UNE 986</oc:name>
+        <oc:id>6AC00EED-E9E2-42B6-8DB0-781ECBE26D2E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/915656BD-3974-4A46-EB4E-639C198CC6A7">
+        <oc:name>UNE 987</oc:name>
+        <oc:id>915656BD-3974-4A46-EB4E-639C198CC6A7</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1D1D94DB-4DF9-4742-E80E-E3034C2AC3D5">
+        <oc:name>UNE 988</oc:name>
+        <oc:id>1D1D94DB-4DF9-4742-E80E-E3034C2AC3D5</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/BC286109-4A82-4CE6-6573-921F9ECB7660">
+        <oc:name>UNE 989</oc:name>
+        <oc:id>BC286109-4A82-4CE6-6573-921F9ECB7660</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/14FF3C3F-D18C-4246-A061-FA032EDCA927">
+        <oc:name>UNE 990</oc:name>
+        <oc:id>14FF3C3F-D18C-4246-A061-FA032EDCA927</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6DFF303D-4DE2-4D20-4A36-ECA978D0FFAC">
+        <oc:name>UNE 991</oc:name>
+        <oc:id>6DFF303D-4DE2-4D20-4A36-ECA978D0FFAC</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/D3AE7AA5-EB55-420C-2264-199C780372B6">
+        <oc:name>UNE 992</oc:name>
+        <oc:id>D3AE7AA5-EB55-420C-2264-199C780372B6</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/79F195B5-B6C2-4838-E8B9-753D40D5C035">
+        <oc:name>UNE 993</oc:name>
+        <oc:id>79F195B5-B6C2-4838-E8B9-753D40D5C035</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/29A25A89-D77A-46C6-C1D4-11FE1583C11A">
+        <oc:name>UNE 994</oc:name>
+        <oc:id>29A25A89-D77A-46C6-C1D4-11FE1583C11A</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/B640A793-972C-45A6-6790-53F976EB426E">
+        <oc:name>UNE 995</oc:name>
+        <oc:id>B640A793-972C-45A6-6790-53F976EB426E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/544FE848-0BE9-4344-B7AA-B91508E35B95">
+        <oc:name>UNE 996</oc:name>
+        <oc:id>544FE848-0BE9-4344-B7AA-B91508E35B95</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E5775968-8DB5-421E-1A7E-0BB4A6BDA84A">
+        <oc:name>UNE 997</oc:name>
+        <oc:id>E5775968-8DB5-421E-1A7E-0BB4A6BDA84A</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/2183F896-FF9A-40FB-76E4-70CF0152047E">
+        <oc:name>UNE 998</oc:name>
+        <oc:id>2183F896-FF9A-40FB-76E4-70CF0152047E</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/6E230D7E-0339-4D7F-C840-000DBDDED6EB">
+        <oc:name>UNE 999</oc:name>
+        <oc:id>6E230D7E-0339-4D7F-C840-000DBDDED6EB</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/1F90E536-BC4A-4758-6B17-69BB80E7EDA9">
+        <oc:name>UNE 1000</oc:name>
+        <oc:id>1F90E536-BC4A-4758-6B17-69BB80E7EDA9</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/58FBAB47-6C65-46C6-7AC8-912F59368B83">
+        <oc:name>UNE 1001</oc:name>
+        <oc:id>58FBAB47-6C65-46C6-7AC8-912F59368B83</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/50815C00-E247-4C7C-76EA-02E930B47132">
+        <oc:name>UNE 1002</oc:name>
+        <oc:id>50815C00-E247-4C7C-76EA-02E930B47132</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/4ED0E606-15EC-4385-C6EA-563F8897289B">
+        <oc:name>UNE 1003</oc:name>
+        <oc:id>4ED0E606-15EC-4385-C6EA-563F8897289B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/8D55B016-68D1-4B72-7E77-61B7EE08297C">
+        <oc:name>UNE 1004</oc:name>
+        <oc:id>8D55B016-68D1-4B72-7E77-61B7EE08297C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/9377C218-1B10-4855-E47B-4A4D4D725134">
+        <oc:name>UNE 1005</oc:name>
+        <oc:id>9377C218-1B10-4855-E47B-4A4D4D725134</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/63EDE383-A6D4-4EB2-16CA-580FFABB374D">
+        <oc:name>UNE 1006</oc:name>
+        <oc:id>63EDE383-A6D4-4EB2-16CA-580FFABB374D</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/EF6B730F-E96C-4A83-727E-5F3CD91EE407">
+        <oc:name>UNE 1007</oc:name>
+        <oc:id>EF6B730F-E96C-4A83-727E-5F3CD91EE407</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/E5B3E99C-B797-4853-BB4B-01C14B925C2C">
+        <oc:name>UNE 1008</oc:name>
+        <oc:id>E5B3E99C-B797-4853-BB4B-01C14B925C2C</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/23CCD7F1-2D8B-4621-2D3F-15B65561F5FA">
+        <oc:name>UNE 1009</oc:name>
+        <oc:id>23CCD7F1-2D8B-4621-2D3F-15B65561F5FA</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/7FDF3D69-616F-44C9-FD19-89ACA343173B">
+        <oc:name>UNE 1010</oc:name>
+        <oc:id>7FDF3D69-616F-44C9-FD19-89ACA343173B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+      <oc:child href="http://opencontext.org/subjects/320E2FFA-DC7F-4276-9F27-141061FC962B">
+        <oc:name>UNE 1011</oc:name>
+        <oc:id>320E2FFA-DC7F-4276-9F27-141061FC962B</oc:id>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:child>
+    </oc:tree>
+  </oc:children>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: Geunieerde Provinvien and Banda (Site)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-06</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/185E0FAB-2553-41F1-F967-E3AD7FFB5F96</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+Geunieerde+Provinvien+and+Banda+%28Site%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F185E0FAB-2553-41F1-F967-E3AD7FFB5F96</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>-10.37166</oc:geo_lat>
+      <oc:geo_long>56.670227</oc:geo_long>
+      <oc:metasource ref_type="self" href="http://opencontext.org/subjects/185E0FAB-2553-41F1-F967-E3AD7FFB5F96">
+        <oc:source_name>Geunieerde Provinvien and Banda</oc:source_name>
+        <oc:source_id>185E0FAB-2553-41F1-F967-E3AD7FFB5F96</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-07T00:56:40-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/07 00:56:40</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1615 CE)</oc:name>
+        <oc:chrono isDuration="false">
+          <oc:time_start>1615</oc:time_start>
+          <oc:time_finish>1615</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/185E0FAB-2553-41F1-F967-E3AD7FFB5F96">
+            <oc:source_name>Geunieerde Provinvien and Banda</oc:source_name>
+            <oc:source_id>185E0FAB-2553-41F1-F967-E3AD7FFB5F96</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:35:41-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

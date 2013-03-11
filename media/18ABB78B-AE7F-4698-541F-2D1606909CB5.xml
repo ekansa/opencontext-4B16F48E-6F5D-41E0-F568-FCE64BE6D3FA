@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:resource xmlns:arch="http://ochre.lib.uchicago.edu/schema/Resource/Resource.xsd" xmlns:oc="http://opencontext.org/schema/resource_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="18ABB78B-AE7F-4698-541F-2D1606909CB5" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA" type="image">
+  <arch:name>
+    <arch:string>UNE317.JPG</arch:string>
+  </arch:name>
+  <arch:links>
+    <arch:docID type="spatialUnit" info="link">E56963AB-E95A-4BE6-AE36-1FC9BD21089D</arch:docID>
+    <oc:space_links>
+      <oc:link href="http://opencontext.org/subjects/E56963AB-E95A-4BE6-AE36-1FC9BD21089D">
+        <oc:name>UNE 317</oc:name>
+        <oc:id>E56963AB-E95A-4BE6-AE36-1FC9BD21089D</oc:id>
+        <oc:relation>link</oc:relation>
+        <oc:item_class>
+          <oc:name>Pottery</oc:name>
+          <oc:iconURI>ceramic_artifacts_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+        <oc:context>
+          <oc:tree id="default">
+            <oc:parent href="http://opencontext.org/subjects/32B3883A-B007-405D-C4E0-ED129C587DFA">
+              <oc:name>Northern Mariana Islands</oc:name>
+              <oc:id>32B3883A-B007-405D-C4E0-ED129C587DFA</oc:id>
+              <oc:level>2</oc:level>
+              <oc:item_class>
+                <oc:name>Region</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+            <oc:parent href="http://opencontext.org/subjects/C488564F-14FA-4869-7BF7-CF70BABB3AEF">
+              <oc:name>Conception</oc:name>
+              <oc:id>C488564F-14FA-4869-7BF7-CF70BABB3AEF</oc:id>
+              <oc:level>1</oc:level>
+              <oc:item_class>
+                <oc:name>Site</oc:name>
+                <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+              </oc:item_class>
+            </oc:parent>
+          </oc:tree>
+        </oc:context>
+      </oc:link>
+    </oc:space_links>
+  </arch:links>
+  <arch:content>
+    <arch:externalFileInfo>
+      <arch:fileFormat>image/jpeg</arch:fileFormat>
+      <oc:FileInfo>
+        <oc:ImageSize>2509460</oc:ImageSize>
+        <oc:FileSize ReadSize="1022.77 KB">1047315</oc:FileSize>
+        <oc:FileName/>
+      </oc:FileInfo>
+      <arch:resourceURI>http://artiraq.org/static/opencontext/stoneware-media/full/photographs/UNE317.JPG</arch:resourceURI>
+      <arch:previewURI>http://artiraq.org/static/opencontext/stoneware-media/preview/photographs/UNE317.JPG</arch:previewURI>
+      <arch:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE317.JPG</arch:thumbnailURI>
+    </arch:externalFileInfo>
+  </arch:content>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE317.JPG</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-07</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/media/18ABB78B-AE7F-4698-541F-2D1606909CB5</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-07T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE317.JPG&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fmedia%2F18ABB78B-AE7F-4698-541F-2D1606909CB5</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>15.199386</oc:geo_lat>
+      <oc:geo_long>141.811523</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/C488564F-14FA-4869-7BF7-CF70BABB3AEF">
+        <oc:source_name>Conception</oc:source_name>
+        <oc:source_id>C488564F-14FA-4869-7BF7-CF70BABB3AEF</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-07T22:47:54-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/07 22:47:54</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1638 CE)</oc:name>
+        <oc:chrono isDuration="false">
+          <oc:time_start>1638</oc:time_start>
+          <oc:time_finish>1638</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/18ABB78B-AE7F-4698-541F-2D1606909CB5">
+            <oc:source_name>UNE 317</oc:source_name>
+            <oc:source_id>18ABB78B-AE7F-4698-541F-2D1606909CB5</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:resource>

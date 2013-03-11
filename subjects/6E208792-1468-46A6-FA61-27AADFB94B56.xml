@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="6E208792-1468-46A6-FA61-27AADFB94B56" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">
+  <arch:name>
+    <arch:string>UNE 717</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Pottery</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a05ad69e1</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>0E315B22-2B11-40B9-9D6E-C7970E2C1C6D</arch:variableID>
+          <arch:valueID>5202149D-97DD-4983-1613-26F18C27FA0E</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/997F6923-9D88-42A1-A8E3-61B8C4720469">997F6923-9D88-42A1-A8E3-61B8C4720469</oc:propid>
+          <oc:var_label type="nominal">Donor Institution/sample Source</oc:var_label>
+          <oc:show_val>Department of Archaeology, University of Cape town</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>1AF87E6D-0125-4BF3-CF16-4D48FC14B69B</arch:variableID>
+          <arch:valueID>B0369227-56BB-4A79-AF1E-480262456663</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/65261F78-AC71-4FD1-2898-864148205B2F">65261F78-AC71-4FD1-2898-864148205B2F</oc:propid>
+          <oc:var_label type="nominal">Sample Source Person</oc:var_label>
+          <oc:show_val>Antonia Malan</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>89A6E0F2-3C21-42E5-BD77-9799594E6E00</arch:variableID>
+          <arch:valueID>B3CF147A-D2ED-49EE-6522-2DC52924D42C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/C914E21E-60DD-40C5-1E3B-F22524AF8C2A">C914E21E-60DD-40C5-1E3B-F22524AF8C2A</oc:propid>
+          <oc:var_label type="alphanumeric">Museum No.</oc:var_label>
+          <oc:show_val>CA88.F2/Ph7OST-3</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5617FAA4-F14E-4712-E612-B155246086EA</arch:variableID>
+          <arch:valueID>0A876D31-4FAB-4481-7ECA-BB1BB8FC0FF9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B5D10C7B-E6DB-4C0B-1894-DA1DC29E7E39">B5D10C7B-E6DB-4C0B-1894-DA1DC29E7E39</oc:propid>
+          <oc:var_label type="nominal">Year</oc:var_label>
+          <oc:show_val>c. 1685-1700</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CBAB15C-9B19-4E31-2520-825E0915A6B5</arch:variableID>
+          <arch:valueID>0C296A5C-FA7E-4C0C-9E7B-F93884C40223</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AE03A61B-ECB3-49E4-AB5A-7A189E79BBCF">AE03A61B-ECB3-49E4-AB5A-7A189E79BBCF</oc:propid>
+          <oc:var_label type="alphanumeric">Photograph No. - Located In Photographs Folder.</oc:var_label>
+          <oc:show_val>UNE 717</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2C44A44C-712D-4848-A2CA-B5158F006D83</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F4BF6427-F9AB-4B41-8E1A-B57247CA4F3C">F4BF6427-F9AB-4B41-8E1A-B57247CA4F3C</oc:propid>
+          <oc:var_label type="decimal">Sample Weight (g)</oc:var_label>
+          <oc:show_val>1</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EC0B7297-5A73-4085-7B75-6E0A215EEB2B</arch:variableID>
+          <arch:valueID>7310165E-1D45-459A-91FD-4B058F3B710F</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/B2A57189-0D5C-4A11-4832-67FAC186FC68">B2A57189-0D5C-4A11-4832-67FAC186FC68</oc:propid>
+          <oc:var_label type="nominal">Vessel Part Sampled</oc:var_label>
+          <oc:show_val>margin</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6A9A1B42-275F-4C9E-C991-EE823B9CBC99</arch:variableID>
+          <arch:valueID>95BA10BE-1050-4BDD-530B-0966AC2CEAF1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/85243B6A-452A-49CE-5773-59E04E5278B7">85243B6A-452A-49CE-5773-59E04E5278B7</oc:propid>
+          <oc:var_label type="alphanumeric">Artefact Type</oc:var_label>
+          <oc:show_val>sherd</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6A9A1B42-275F-4C9E-C991-EE823B9CBC99" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="85243B6A-452A-49CE-5773-59E04E5278B7" localURI="http://opencontext.org/properties/85243B6A-452A-49CE-5773-59E04E5278B7" href="http://collection.britishmuseum.org/id/thesauri/x9862">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>vessel</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">34122113-2DA4-4E19-D887-D027B433EA86</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/34122113-2DA4-4E19-D887-D027B433EA86">
+            <oc:name>UNE717.JPG</oc:name>
+            <oc:id>34122113-2DA4-4E19-D887-D027B433EA86</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE717.JPG</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84" cite="contributor">
+            <oc:name>Peter Grave</oc:name>
+            <oc:id>F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Individual vessels samples originally came from either terrestrial or ship-wreck sources. This project provides only general contextual information. For more specific information about the archaeological context of the objects sampled, please refer to documentation maintained by relevant museums.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+    <arch:observation obsNumber="4">
+      <oc:obs_metadata>
+        <oc:source>z_1_384dabcdb</oc:source>
+        <oc:name>PIXE PIGME Data</oc:name>
+        <oc:type>1</oc:type>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>39162050-A0CD-452F-B9B4-1D0B8AD442D8</arch:variableID>
+          <oc:annotations about="39162050-A0CD-452F-B9B4-1D0B8AD442D8" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Iron" name="Iron" abrv="Fe">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">13811</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C864E460-E07F-4534-1E18-152066BC2363">C864E460-E07F-4534-1E18-152066BC2363</oc:propid>
+          <oc:var_label type="decimal">PIXE - Fe </oc:var_label>
+          <oc:show_val>13811</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>B13745FF-2DE5-41A4-E0DF-40EFE43EF4C2</arch:variableID>
+          <oc:annotations about="B13745FF-2DE5-41A4-E0DF-40EFE43EF4C2" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Aluminium" name="Aluminium" abrv="Al">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">101189</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/39AEB220-5B0F-4CF4-34BF-B6317378EFFF">39AEB220-5B0F-4CF4-34BF-B6317378EFFF</oc:propid>
+          <oc:var_label type="decimal">PIXE - Al(1014) </oc:var_label>
+          <oc:show_val>101189</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>3D1A7FB7-AA05-4D97-CC62-ABCBDB2D932A</arch:variableID>
+          <oc:annotations about="3D1A7FB7-AA05-4D97-CC62-ABCBDB2D932A" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Potassium" name="Potassium" abrv="K">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">15551</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/7C1AB1E2-59FA-4F9F-063F-E8BCCA3A158A">7C1AB1E2-59FA-4F9F-063F-E8BCCA3A158A</oc:propid>
+          <oc:var_label type="decimal">PIXE - K </oc:var_label>
+          <oc:show_val>15551</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>A8F7AF3B-A917-44EE-D763-3A20D37149C2</arch:variableID>
+          <oc:annotations about="A8F7AF3B-A917-44EE-D763-3A20D37149C2" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Titanium" name="Titanium" abrv="Ti">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">6650</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/5BB09F69-C033-493C-59A1-5221B1EFE115">5BB09F69-C033-493C-59A1-5221B1EFE115</oc:propid>
+          <oc:var_label type="decimal">PIXE - Ti </oc:var_label>
+          <oc:show_val>6650</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>C3C1FFBD-8B15-4C60-7E8D-29DC9B48F1F0</arch:variableID>
+          <oc:annotations about="C3C1FFBD-8B15-4C60-7E8D-29DC9B48F1F0" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Fluorine" name="Fluorine" abrv="F">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">163.4</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/B4A425B5-18B7-42A4-ABDB-9C177C87D4EF">B4A425B5-18B7-42A4-ABDB-9C177C87D4EF</oc:propid>
+          <oc:var_label type="decimal">PIXE - F(area) </oc:var_label>
+          <oc:show_val>163.4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F0BDC0BC-AFE5-4252-5B65-DF8B10BEDF31</arch:variableID>
+          <oc:annotations about="F0BDC0BC-AFE5-4252-5B65-DF8B10BEDF31" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Lithium" name="Lithium" abrv="Li">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">27.9</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/86532040-E79A-4202-1991-948862655755">86532040-E79A-4202-1991-948862655755</oc:propid>
+          <oc:var_label type="decimal">PIXE - Li(478) </oc:var_label>
+          <oc:show_val>27.9</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D0E03610-D97D-4013-A15B-1D19474FCCBA</arch:variableID>
+          <oc:annotations about="D0E03610-D97D-4013-A15B-1D19474FCCBA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Silicon" name="Silicon" abrv="Si">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">517669</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/8AF12B9E-2025-4C7E-604E-7DE62911911E">8AF12B9E-2025-4C7E-604E-7DE62911911E</oc:propid>
+          <oc:var_label type="decimal">PIXE - Si </oc:var_label>
+          <oc:show_val>517669</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>ED78FF85-325B-4D08-B9DF-33365C490AF0</arch:variableID>
+          <oc:annotations about="ED78FF85-325B-4D08-B9DF-33365C490AF0" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Calcium" name="Calcium" abrv="Ca">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">1502</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/C2A907E0-20AF-4F87-B349-52E8AEB10838">C2A907E0-20AF-4F87-B349-52E8AEB10838</oc:propid>
+          <oc:var_label type="decimal">PIXE - Ca </oc:var_label>
+          <oc:show_val>1502</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>DB3CC91F-B363-43E0-4FB5-E531CC7BF9CA</arch:variableID>
+          <oc:annotations about="DB3CC91F-B363-43E0-4FB5-E531CC7BF9CA" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Sodium" name="Sodium" abrv="Na">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">959.4</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/4B84BD43-0154-42A3-4525-8B0DC4A400E8">4B84BD43-0154-42A3-4525-8B0DC4A400E8</oc:propid>
+          <oc:var_label type="decimal">PIXE - Na(440) </oc:var_label>
+          <oc:show_val>959.4</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CF1C1B29-A067-4E6A-E23C-E86492EC7E31</arch:variableID>
+          <oc:annotations about="CF1C1B29-A067-4E6A-E23C-E86492EC7E31" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Zirconium" name="Zirconium" abrv="Zr">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">585</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/9F7CCBA7-C3C1-4140-37EE-BEE4DD07A5FA">9F7CCBA7-C3C1-4140-37EE-BEE4DD07A5FA</oc:propid>
+          <oc:var_label type="decimal">PIXE - Zr </oc:var_label>
+          <oc:show_val>585</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CE524E7-25E9-4B1D-D4E0-221472C2E1D4</arch:variableID>
+          <oc:annotations about="5CE524E7-25E9-4B1D-D4E0-221472C2E1D4" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Manganese" name="Manganese" abrv="Mn">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">78</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/F94B5937-B71E-4676-6910-AC54A59296D6">F94B5937-B71E-4676-6910-AC54A59296D6</oc:propid>
+          <oc:var_label type="decimal">PIXE - Mn </oc:var_label>
+          <oc:show_val>78</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>51357659-824A-463F-9E3C-50155643E4B3</arch:variableID>
+          <oc:annotations about="51357659-824A-463F-9E3C-50155643E4B3" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Rubidium" name="Rubidium" abrv="Rb">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">118</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/709DA30C-8F52-4033-CE1E-3EAC0755CD10">709DA30C-8F52-4033-CE1E-3EAC0755CD10</oc:propid>
+          <oc:var_label type="decimal">PIXE - Rb </oc:var_label>
+          <oc:show_val>118</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>CFF5B91E-4E06-4537-9A02-2D44998636AF</arch:variableID>
+          <oc:annotations about="CFF5B91E-4E06-4537-9A02-2D44998636AF" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Strontium" name="Strontium" abrv="Sr">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">35</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/6AEF485A-4998-4778-AFBF-3325A77FFD5C">6AEF485A-4998-4778-AFBF-3325A77FFD5C</oc:propid>
+          <oc:var_label type="decimal">PIXE - Sr </oc:var_label>
+          <oc:show_val>35</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>27B818C2-3668-41F9-DB07-40AFF38A772C</arch:variableID>
+          <oc:annotations about="27B818C2-3668-41F9-DB07-40AFF38A772C" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Vanadium" name="Vanadium" abrv="V">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">168</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/E1777D1A-56E5-41F1-A74A-514B3F22F850">E1777D1A-56E5-41F1-A74A-514B3F22F850</oc:propid>
+          <oc:var_label type="decimal">PIXE - V </oc:var_label>
+          <oc:show_val>168</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5DCC6888-86FA-4033-B004-C433ADFD4371</arch:variableID>
+          <oc:annotations about="5DCC6888-86FA-4033-B004-C433ADFD4371" aboutType="variable">
+            <oc:annotation>
+              <oc:relationLink type="consists of"/>
+              <oc:targetLink href="http://en.wikipedia.org/wiki/Magnesium" name="Magnesium" abrv="Mg">
+                <oc:vocabulary href="http://www.wikipedia.org/">Wikipedia</oc:vocabulary>
+              </oc:targetLink>
+            </oc:annotation>
+          </oc:annotations>
+          <arch:decimal href="http://dbpedia.org/resource/Parts_per_million" name="concentration (parts per million, mg/kg)" abrv="ppm">3795.1</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/D5ED0F76-8F1E-4644-8EDE-9C0D9774A5EA">D5ED0F76-8F1E-4644-8EDE-9C0D9774A5EA</oc:propid>
+          <oc:var_label type="decimal">PIXE - Mg(585) </oc:var_label>
+          <oc:show_val>3795.1</oc:show_val>
+        </arch:property>
+      </arch:properties>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/75EE4254-7C5A-4B0F-F809-A1AFAC016C53">
+        <oc:name>South Africa</oc:name>
+        <oc:id>75EE4254-7C5A-4B0F-F809-A1AFAC016C53</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/879E0ECA-7FCC-4963-86C3-13CAC42EFCB6">
+        <oc:name>Castle of Good Hope</oc:name>
+        <oc:id>879E0ECA-7FCC-4963-86C3-13CAC42EFCB6</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE 717 (Pottery)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-06</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/6E208792-1468-46A6-FA61-27AADFB94B56</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE+717+%28Pottery%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.contributor=Peter+Grave&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F6E208792-1468-46A6-FA61-27AADFB94B56</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>-33.925913</oc:geo_lat>
+      <oc:geo_long>18.427806</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/879E0ECA-7FCC-4963-86C3-13CAC42EFCB6">
+        <oc:source_name>Castle of Good Hope</oc:source_name>
+        <oc:source_id>879E0ECA-7FCC-4963-86C3-13CAC42EFCB6</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-07T01:18:17-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/07 01:18:17</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1685 CE - 1700 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1685</oc:time_start>
+          <oc:time_finish>1700</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/6E208792-1468-46A6-FA61-27AADFB94B56">
+            <oc:source_name>UNE 717</oc:source_name>
+            <oc:source_id>6E208792-1468-46A6-FA61-27AADFB94B56</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>

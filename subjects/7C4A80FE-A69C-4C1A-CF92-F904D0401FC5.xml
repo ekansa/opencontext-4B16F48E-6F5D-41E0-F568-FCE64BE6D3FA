@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<arch:spatialUnit xmlns:arch="http://ochre.lib.uchicago.edu/schema/SpatialUnit/SpatialUnit.xsd" xmlns:oc="http://opencontext.org/schema/space_schema_v1.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:gml="http://www.opengis.net/gml" UUID="7C4A80FE-A69C-4C1A-CF92-F904D0401FC5" ownedBy="4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">
+  <arch:name>
+    <arch:string>UNE 399</arch:string>
+  </arch:name>
+  <oc:item_class>
+    <oc:name>Pottery</oc:name>
+    <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/ceramic_artifacts_50x50.jpg</oc:iconURI>
+  </oc:item_class>
+  <arch:observations>
+    <arch:observation obsNumber="1">
+      <oc:obs_metadata>
+        <oc:source>z_1_a05ad69e1</oc:source>
+      </oc:obs_metadata>
+      <arch:properties>
+        <arch:property>
+          <arch:variableID>0E315B22-2B11-40B9-9D6E-C7970E2C1C6D</arch:variableID>
+          <arch:valueID>F0D9882A-4E31-4713-734C-56E292DECDA9</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/0405F9DE-C62D-4F50-A12B-B2CB8D2726D0">0405F9DE-C62D-4F50-A12B-B2CB8D2726D0</oc:propid>
+          <oc:var_label type="nominal">Donor Institution/sample Source</oc:var_label>
+          <oc:show_val>National Parks Service, Point Reyes National Seashore</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>89A6E0F2-3C21-42E5-BD77-9799594E6E00</arch:variableID>
+          <arch:valueID>AE3F4C3F-CE27-488A-C2B5-0C4913030B92</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/703F3745-D51C-4BC3-5AED-59239A9AC80E">703F3745-D51C-4BC3-5AED-59239A9AC80E</oc:propid>
+          <oc:var_label type="alphanumeric">Museum No.</oc:var_label>
+          <oc:show_val>PORE1404B</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>F0ED06E8-D461-4095-CFF8-C45D37CB50BF</arch:variableID>
+          <arch:valueID>07D6863F-FF9A-406A-3024-31B25FE65D33</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/65B97DCD-3491-4A94-ABE3-BF8444E3DD90">65B97DCD-3491-4A94-ABE3-BF8444E3DD90</oc:propid>
+          <oc:var_label type="alphanumeric">Other Identifiers</oc:var_label>
+          <oc:show_val>LOST</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5617FAA4-F14E-4712-E612-B155246086EA</arch:variableID>
+          <arch:valueID>D6A3C85E-F820-45EE-66D6-7AE3042C2E93</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/D6BD2C94-ABC7-4AEA-CFB1-4AEA0A2478E2">D6BD2C94-ABC7-4AEA-CFB1-4AEA0A2478E2</oc:propid>
+          <oc:var_label type="nominal">Year</oc:var_label>
+          <oc:show_val>1579/1595</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>5CBAB15C-9B19-4E31-2520-825E0915A6B5</arch:variableID>
+          <arch:valueID>6A846728-05DE-4DB3-377B-FDAD08C618B8</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/E7F12267-622A-44C1-47BE-731945467F79">E7F12267-622A-44C1-47BE-731945467F79</oc:propid>
+          <oc:var_label type="alphanumeric">Photograph No. - Located In Photographs Folder.</oc:var_label>
+          <oc:show_val>UNE 399</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>2C44A44C-712D-4848-A2CA-B5158F006D83</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/gram" name="gram" abrv="g">0.25</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/593694A8-FDFB-4702-38D1-6CC107F32BF9">593694A8-FDFB-4702-38D1-6CC107F32BF9</oc:propid>
+          <oc:var_label type="decimal">Sample Weight (g)</oc:var_label>
+          <oc:show_val>0.25</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>EC0B7297-5A73-4085-7B75-6E0A215EEB2B</arch:variableID>
+          <arch:valueID>77320457-6DB8-48BF-AEA9-7D589A4D1F3C</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/AFBC7A42-56E7-4962-C23D-7A1A7190573E">AFBC7A42-56E7-4962-C23D-7A1A7190573E</oc:propid>
+          <oc:var_label type="nominal">Vessel Part Sampled</oc:var_label>
+          <oc:show_val>broken edge</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>D598C9EE-39FE-4808-7DC7-B17F9856A6A0</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">17</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/DB57809E-3756-4550-6F19-EC654F31F353">DB57809E-3756-4550-6F19-EC654F31F353</oc:propid>
+          <oc:var_label type="decimal">Diameter (mm)</oc:var_label>
+          <oc:show_val>17</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>65A32E3A-9AE9-4882-DE46-549921067E15</arch:variableID>
+          <arch:decimal href="http://www.freebase.com/view/en/millimeter" name="millimeter" abrv="mm">15</arch:decimal>
+          <oc:propid href="http://opencontext.org/properties/66DBE3AD-1F87-4EC5-3ADF-FF865E6AA448">66DBE3AD-1F87-4EC5-3ADF-FF865E6AA448</oc:propid>
+          <oc:var_label type="decimal">Height (mm)</oc:var_label>
+          <oc:show_val>15</oc:show_val>
+        </arch:property>
+        <arch:property>
+          <arch:variableID>6A9A1B42-275F-4C9E-C991-EE823B9CBC99</arch:variableID>
+          <arch:valueID>95BA10BE-1050-4BDD-530B-0966AC2CEAF1</arch:valueID>
+          <oc:propid href="http://opencontext.org/properties/85243B6A-452A-49CE-5773-59E04E5278B7">85243B6A-452A-49CE-5773-59E04E5278B7</oc:propid>
+          <oc:var_label type="alphanumeric">Artefact Type</oc:var_label>
+          <oc:show_val>sherd</oc:show_val>
+          <oc:linkedData>
+            <oc:relationLink localType="variable" localID="6A9A1B42-275F-4C9E-C991-EE823B9CBC99" href="http://www.cidoc-crm.org/rdfs/cidoc-crm#P2.has_type">
+              <oc:vocabulary href="http://www.cidoc-crm.org/">CIDOC-CRM</oc:vocabulary>
+              <oc:label>Has type</oc:label>
+              <oc:targetLink localType="property" localID="85243B6A-452A-49CE-5773-59E04E5278B7" localURI="http://opencontext.org/properties/85243B6A-452A-49CE-5773-59E04E5278B7" href="http://collection.britishmuseum.org/id/thesauri/x9862">
+                <oc:vocabulary href="http://collection.britishmuseum.org/">British Museum Thesaurus</oc:vocabulary>
+                <oc:label>vessel</oc:label>
+              </oc:targetLink>
+            </oc:relationLink>
+          </oc:linkedData>
+        </arch:property>
+      </arch:properties>
+      <arch:links>
+        <arch:docID type="resource" info="link">963C6667-18FC-4983-0F4A-A3D606DCDB86</arch:docID>
+        <arch:docID type="person" info="Principle Author / Analyst">F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</arch:docID>
+        <oc:media_links>
+          <oc:link href="http://opencontext.org/media/963C6667-18FC-4983-0F4A-A3D606DCDB86">
+            <oc:name>UNE399.JPG</oc:name>
+            <oc:id>963C6667-18FC-4983-0F4A-A3D606DCDB86</oc:id>
+            <oc:relation>link</oc:relation>
+            <oc:type>image</oc:type>
+            <oc:thumbnailURI>http://artiraq.org/static/opencontext/stoneware-media/thumbs/photographs/UNE399.JPG</oc:thumbnailURI>
+          </oc:link>
+        </oc:media_links>
+        <oc:person_links>
+          <oc:link href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84" cite="contributor">
+            <oc:name>Peter Grave</oc:name>
+            <oc:id>F5803FF2-C57A-4D94-ED16-0F72FD9BCD84</oc:id>
+            <oc:relation>Principle Author / Analyst</oc:relation>
+          </oc:link>
+        </oc:person_links>
+      </arch:links>
+      <arch:notes>
+        <arch:note>
+          <arch:string type="xhtml">
+            <div xmlns="http://www.w3.org/1999/xhtml">Individual vessels samples originally came from either terrestrial or ship-wreck sources. This project provides only general contextual information. For more specific information about the archaeological context of the objects sampled, please refer to documentation maintained by relevant museums.</div>
+          </arch:string>
+        </arch:note>
+      </arch:notes>
+    </arch:observation>
+  </arch:observations>
+  <oc:context>
+    <oc:tree id="default">
+      <oc:parent href="http://opencontext.org/subjects/2A1B75E6-8C79-49B9-873A-A2E006669691">
+        <oc:name>United States</oc:name>
+        <oc:id>2A1B75E6-8C79-49B9-873A-A2E006669691</oc:id>
+        <oc:level>3</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/D19E908A-9614-445F-DF1A-793EBCD45BEE">
+        <oc:name>California</oc:name>
+        <oc:id>D19E908A-9614-445F-DF1A-793EBCD45BEE</oc:id>
+        <oc:level>2</oc:level>
+        <oc:item_class>
+          <oc:name>Region</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/region_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+      <oc:parent href="http://opencontext.org/subjects/697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B">
+        <oc:name>Drakes Bay Site</oc:name>
+        <oc:id>697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B</oc:id>
+        <oc:level>1</oc:level>
+        <oc:item_class>
+          <oc:name>Site</oc:name>
+          <oc:iconURI>http://opencontext.org/database/ui_images/med_oc_icons/site_30x30.jpg</oc:iconURI>
+        </oc:item_class>
+      </oc:parent>
+    </oc:tree>
+  </oc:context>
+  <oc:metadata>
+    <dc:title>Asian Stoneware Jars: UNE 399 (Pottery)</dc:title>
+    <dc:publisher>Open Context</dc:publisher>
+    <dc:date>2013-03-06</dc:date>
+    <dc:subject>inductively coupled plasma optical emission spectrometry</dc:subject>
+    <dc:subject>neutron activation analysis</dc:subject>
+    <dc:subject>Early Modern</dc:subject>
+    <dc:subject>trade</dc:subject>
+    <dc:subject>stoneware</dc:subject>
+    <dc:subject>dragon jars</dc:subject>
+    <dc:contributor href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:contributor>
+    <dc:creator href="http://opencontext.org/persons/F5803FF2-C57A-4D94-ED16-0F72FD9BCD84">Peter Grave</dc:creator>
+    <dc:identifier>http://opencontext.org/subjects/7C4A80FE-A69C-4C1A-CF92-F904D0401FC5</dc:identifier>
+    <oc:project_name href="http://opencontext.org/projects/4B16F48E-6F5D-41E0-F568-FCE64BE6D3FA">Asian Stoneware Jars</oc:project_name>
+    <oc:pub_date>2013-03-06T00:00:00-07:00</oc:pub_date>
+    <oc:coins>ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rft.type=dataset&amp;rft.title=Asian+Stoneware+Jars%3A+UNE+399+%28Pottery%29&amp;rft.publisher=Open+Context&amp;rft.source=Open+Context&amp;rft.subject=inductively+coupled+plasma+optical+emission+spectrometry&amp;rft.subject=neutron+activation+analysis&amp;rft.subject=Early+Modern&amp;rft.subject=trade&amp;rft.subject=stoneware&amp;rft.subject=dragon+jars&amp;rft.contributor=Peter+Grave&amp;rft.creator=Peter+Grave&amp;rft.identifier=http%3A%2F%2Fopencontext.org%2Fsubjects%2F7C4A80FE-A69C-4C1A-CF92-F904D0401FC5</oc:coins>
+    <oc:geo_reference>
+      <oc:geo_lat>38.013747</oc:geo_lat>
+      <oc:geo_long>-122.946625</oc:geo_long>
+      <oc:metasource ref_type="contained" href="http://opencontext.org/subjects/697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B">
+        <oc:source_name>Drakes Bay Site</oc:source_name>
+        <oc:source_id>697F63EE-EBCE-4E0A-FDBF-AC11EC30C85B</oc:source_id>
+      </oc:metasource>
+    </oc:geo_reference>
+    <oc:copyright_lic href="http://creativecommons.org/licenses/by/3.0/">
+      <oc:lic_name>Attribution</oc:lic_name>
+      <oc:lic_vers>3</oc:lic_vers>
+      <oc:lic_URI>http://creativecommons.org/licenses/by/3.0/</oc:lic_URI>
+      <oc:lic_icon_URI>http://i.creativecommons.org/l/by/3.0/88x31.png</oc:lic_icon_URI>
+    </oc:copyright_lic>
+  </oc:metadata>
+  <oc:social_usage>
+    <oc:last_updated>2013-03-07T01:47:08-07:00</oc:last_updated>
+    <oc:item_views>
+      <oc:count>1</oc:count>
+      <oc:view_time>2013/03/07 01:47:08</oc:view_time>
+    </oc:item_views>
+    <oc:user_tags>
+      <oc:tag type="chronological" status="public">
+        <oc:name>(1579 CE - 1595 CE)</oc:name>
+        <oc:chrono isDuration="true">
+          <oc:time_start>1579</oc:time_start>
+          <oc:time_finish>1595</oc:time_finish>
+          <oc:metasource ref_type="self" href="http://opencontext.org/subjects/7C4A80FE-A69C-4C1A-CF92-F904D0401FC5">
+            <oc:source_name>UNE 399</oc:source_name>
+            <oc:source_id>7C4A80FE-A69C-4C1A-CF92-F904D0401FC5</oc:source_id>
+          </oc:metasource>
+        </oc:chrono>
+        <oc:tag_creator id="">
+          <oc:creator_name/>
+          <oc:set_label/>
+          <oc:set_id/>
+          <oc:set_date>2013-02-21T14:44:49-07:00</oc:set_date>
+        </oc:tag_creator>
+      </oc:tag>
+    </oc:user_tags>
+  </oc:social_usage>
+</arch:spatialUnit>
